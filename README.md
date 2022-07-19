@@ -1,2 +1,2 @@
-# LT-rsschool-JS-course-
-Eng - 1 febr 2022
+# LT-rsschool-JS-course- feb 2021 - jul2021
+English
