@@ -1,2 +1,2 @@
-# LT-rsschool-JS-course- 2022
-English
+# LT-RSschool-2022(feb-jul)
+JS/Fe-course English
